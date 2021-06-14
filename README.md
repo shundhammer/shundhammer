@@ -26,7 +26,7 @@ Working at SUSE Linux GmbH on YaST2 for openSUSE and SLES
 - [libyui](https://github.com/libyui/libyui), the YaST UI (user interface) library
   supporting graphical (Qt) and text-based (NCurses) back-ends
 
-  Screenshots [here](https://github.com/yast/yast-widget-demo/pull/1).
+  Screenshots [here](https://github.com/yast/yast-widget-demo/issues/2).
   <details>
     <summary>More</summary>
 
