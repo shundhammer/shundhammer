@@ -8,6 +8,13 @@
 
 - KDirStat (the old KDE 3 version, now superseded by QDirStat and K4DirStat)
 
+<details>
+  <summary>More</summary>
+
+  - [QPhotoView](https://github.com/shundhammer/qphotoview)
+  - [CommentedConfigFile C++ Class](https://github.com/shundhammer/commented-config-file)
+  - [HuHa's Linux Tips](https://github.com/shundhammer/huha-linux-tips)
+</details>
 
 
 
