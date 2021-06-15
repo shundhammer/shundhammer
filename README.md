@@ -4,7 +4,7 @@
 
 - [QDirStat](https://github.com/shundhammer/qdirstat) (Main author; this is mostly a one-man show)
 
-  [<img width="350" src="https://github.com/shundhammer/qdirstat/blob/master/screenshots/QDirStat-main-win.png">](https://github.com/shundhammer/qdirstat)
+  [<img width="350" src="https://github.com/shundhammer/qdirstat/blob/master/screenshots/QDirStat-main-win.png">](https://github.com/shundhammer/qdirstat/blob/master/README.md)
 
 - KDirStat (the old KDE 3 version, now superseded by QDirStat and K4DirStat)
 
