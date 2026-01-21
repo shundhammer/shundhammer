@@ -15,7 +15,7 @@
   
 
 <details>
-  <summary>More</summary>
+  <summary>More private Open Source projects</summary>
 
   - [QPhotoView](https://github.com/shundhammer/qphotoview)
   - [CommentedConfigFile C++ Class](https://github.com/shundhammer/commented-config-file)
