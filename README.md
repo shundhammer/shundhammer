@@ -10,7 +10,7 @@
 
 - [Myrlyn](https://github.com/shundhammer/myrlyn) Package Manger GUI for Linux (Main author; this is mostly a one-man show)
 
-  [<img width="350" src="https://github.com/shundhammer/myrlyn/blob/master/screenshots/Myrlyn-10-search-view.png">](https://github.com/shundhammer/myrlyn/blob/master/screenshots/Myrlyn-10-search-view.png")
+  [<img width="350" src="https://github.com/shundhammer/myrlyn/blob/master/screenshots/Myrlyn-10-search-view.png">](https://github.com/shundhammer/myrlyn/blob/master/README.md)
 
   
 
