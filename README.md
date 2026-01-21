@@ -2,17 +2,13 @@
 
 ## Private Open Source Projects
 
-- [QDirStat](https://github.com/shundhammer/qdirstat) Disk Usage Analyzer
-  
-  (Main author; this is mostly a one-man show)
+- [QDirStat](https://github.com/shundhammer/qdirstat) Disk Usage Analyzer (Main author; this is mostly a one-man show)
 
   [<img width="350" src="https://github.com/shundhammer/qdirstat/blob/master/screenshots/QDirStat-main-win.png">](https://github.com/shundhammer/qdirstat/blob/master/README.md)
 
 - KDirStat (the old KDE 3 version, now superseded by QDirStat and K4DirStat)
 
-- [Myrlyn](https://github.com/shundhammer/myrlyn) Package Manger GUI for Linux
-
-  (Main author; this is mostly a one-man show)
+- [Myrlyn](https://github.com/shundhammer/myrlyn) Package Manger GUI for Linux (Main author; this is mostly a one-man show)
 
   [<img width="350" src="https://github.com/shundhammer/myrlyn/blob/master/screenshots/Myrlyn-10-search-view.png">](https://github.com/shundhammer/myrlyn/blob/master/screenshots/Myrlyn-10-search-view.png")
 
