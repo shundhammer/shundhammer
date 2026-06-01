@@ -26,8 +26,15 @@
 
 ## What I do for a Living
 
-Working at SUSE Linux GmbH on YaST2 for openSUSE and SLES
-10/1999 - 3/2009 and again since 4/2015, in particular on the YaST user interface:
+Since 05/2026, I am in early retirement until the official pension age.
+Or you could call it an extended sabbatical.
+
+I am still actively maintaining 
+[Myrlyn](https://github.com/shundhammer/myrlyn) and
+[QDirStat](https://github.com/shundhammer/qdirstat).
+
+Before 05/2026, I worked at SUSE Linux GmbH on YaST2 for openSUSE and SLES
+10/1999 - 3/2009 and again 4/2015 - 4/2026, in particular on the YaST user interface:
 
 - [libyui](https://github.com/libyui/libyui), the YaST UI (user interface) library
   supporting graphical (Qt) and text-based (NCurses) back-ends
